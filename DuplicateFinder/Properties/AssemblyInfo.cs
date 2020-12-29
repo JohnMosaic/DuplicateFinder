@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("A Tiny Tool for Finding Duplicate Files.")]
-[assembly: AssemblyDescription("John Mosaic")]
+[assembly: AssemblyTitle("DuplicateFinder")]
+[assembly: AssemblyDescription("A Tiny Tool for Finding Duplicate Files.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("John Mosaic")]
-[assembly: AssemblyProduct("DuplicateFinder")]
+[assembly: AssemblyProduct("A Tiny Tool for Finding Duplicate Files.")]
 [assembly: AssemblyCopyright("Copyright © John Mosaic 2020")]
 [assembly: AssemblyTrademark("John Mosaic")]
 [assembly: AssemblyCulture("")]
